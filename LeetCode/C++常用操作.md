@@ -14,5 +14,6 @@ push_back //从尾部加入一个新数据
 
 ## 常用基础操作
 
-判断奇偶数：`number & 1` true=奇数，false=偶数
-比较两个数的大小并返回较大的那个： `c = a>b?a:b;` 或者 `c = max(a,b)` max函数需要algorithm头文件，后者更快
+* 判断奇偶数：`number & 1` true=奇数，false=偶数
+
+* 比较两个数的大小并返回较大的那个： `c = a>b?a:b` 或者 `c = max(a,b)` max函数需要algorithm头文件，后者更快
