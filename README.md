@@ -10,6 +10,8 @@ CV算法岗面经 &amp; LeetCode刷题总结
 
 [2020-08-08_网易深度学习算法笔试](./Interview/2020-08-08_网易深度学习算法笔试.md)
 
+[2020-08-14_哔哩哔哩CV&NLP算法笔试](./Interview/2020-08-14_bilibili笔试.md)
+
 ## LeetCode
 
 [C++常用操作](./LeetCode/C++常用操作.md)
